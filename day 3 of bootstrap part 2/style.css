@@ -1,0 +1,25 @@
+html.body{
+    margin: 100%;
+    padding: 100%;
+    overflow-x: hidden;
+
+}
+.container-fluid{
+    background-color: rgb(75, 72, 72);
+    color: rgb(195, 189, 189);
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    background-color: rgb(105, 101, 101);
+    border-radius: 0.29rem;
+    margin-top: 1rem;
+    padding: 0.5rem;
+}
+#a2{
+    background-color: rgb(10, 10, 10);
+    border-radius: 0.29rem;
+}
+span{
+    font-size: 2rem;
+}

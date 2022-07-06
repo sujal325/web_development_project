@@ -1,0 +1,38 @@
+.container-fluid{
+    background-color: rgb(248, 163, 177);
+}
+#l{
+    margin: 10px 0px 10px 0px;
+    border-radius: 8px;
+    background-color: gold;
+    background-color: pink;
+    padding: 5px;
+}
+#heading{
+    background-color: orange;
+    padding: 25px;
+}
+#menu ul{
+    list-style: none;
+    margin: 5px;
+}
+#menu ul li{
+    display: inline-block;
+    margin: 0px 10px ;
+}
+#menu{
+    background-color: yellow;
+}
+#main{
+    padding: 25px;
+}
+#col4{
+    background-color: rgb(127, 244, 151);
+}
+.col-sm-2 ul{
+    margin: 5px;
+}
+#footer{
+    background-color: rgb(37, 213, 213);
+}
+
