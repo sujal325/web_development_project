@@ -1,0 +1,33 @@
+*{
+    background-color: rgb(240, 255, 126);
+    font-family: 'Cedarville Cursive', cursive;
+    margin: 12px;
+}
+.heading{
+    background-color: rgb(148, 243, 243);
+    border: 3px dotted rgb(67, 66, 66);
+    text-align: center;
+    margin: 0% 12% 0% 12%;
+}
+.font1{
+    background-color: rgb(148, 243, 243);
+    border: 3px dotted rgb(67, 66, 66);
+    padding: 20px;
+    margin: 2% 20% 2% 2%;
+}
+.font2{
+    background-color: rgb(148, 243, 243);
+    border: 3px dotted rgb(67, 66, 66);
+    padding: 20px;
+    margin: 2% 2% 2% 20%;
+}.font3{
+    background-color: rgb(148, 243, 243);
+    border: 3px dotted rgb(67, 66, 66);
+    padding: 20px;
+    margin: 2% 20% 2% 2%;
+}.font4{
+    background-color: rgb(148, 243, 243);
+    border: 3px dotted rgb(67, 66, 66);
+    padding: 20px;
+    margin: 2% 2% 2% 20%;
+}
